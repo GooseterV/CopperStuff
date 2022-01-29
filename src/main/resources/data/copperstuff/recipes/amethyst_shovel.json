@@ -1,0 +1,26 @@
+{
+	"group":"copperstuff",
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		" . ",
+		" # ",
+		" # "
+	],
+	"key":
+	{
+		".":
+		{
+			"item": "copperstuff:amethyst_blade"
+		},
+		"#":
+		{
+			"item": "copperstuff:copper_rod"
+	    }
+    },
+	"result":
+	{
+		"item": "copperstuff:amethyst_shovel",
+		"count": 1
+	}
+}

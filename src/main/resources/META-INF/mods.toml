@@ -1,0 +1,33 @@
+# The name of the mod loader type to load - for regular FML @Mod mods it should be javafml
+    modLoader="javafml"
+    loaderVersion="[39,)"
+    license="MIT"
+    issueTrackerURL="https://github.com/gooseterv/copperstuff/issues"
+    showAsResourcePack=true
+
+    [[mods]]
+      modId="copperstuff"
+      version="0.5.0.0"
+      displayName="Copper Stuff"
+      updateJSONURL="https://raw.githubusercontent.com/GooseterV/copperstuff/master/versions.json"
+      displayURL="https://github.com/gooseterv/copperstuff"
+      logoFile="COPPERSTUFF.png"
+      credits="Goose V, NaticusV"
+      authors="Goose V."
+      description='''
+      a mod that adds functioning copper and amethyst tools to the game
+      '''
+
+      [[dependencies.examplemod]]
+        modId="forge"
+        mandatory=true
+        versionRange="[37,39)"
+        ordering="NONE"
+        side="BOTH"
+
+      [[dependencies.examplemod]]
+        modId="minecraft"
+        mandatory=true
+        versionRange="[1.17,1.18)"
+        ordering="NONE"
+        side="BOTH"

@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern":
+	[
+		"...",
+		". .",
+		". ."
+	],
+	"key":
+	{
+		".":
+		{
+			"item": "minecraft:amethyst_shard"
+		}
+	},
+	"result":
+	{
+		"item": "copperstuff:amethyst_leggings",
+		"count": 1
+	}
+}
