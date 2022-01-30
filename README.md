@@ -21,4 +21,24 @@
 ![image](https://user-images.githubusercontent.com/82774618/151715551-d1c2e016-1373-4cc0-a7bf-8a360174710a.png)
 ### Amethyst Sword
 ![image](https://user-images.githubusercontent.com/82774618/151715561-ab1ce709-7aff-440d-be26-a72ce90fc67a.png)
+### Copper Axe
+![image](https://user-images.githubusercontent.com/82774618/151715683-59661905-985c-414f-b37b-6729d0f4ae43.png)
+### Copper Boots
+![image](https://user-images.githubusercontent.com/82774618/151715697-e795947c-a4c4-4224-88e1-117d88e1990b.png)
+### Copper Bucket
+![image](https://user-images.githubusercontent.com/82774618/151715709-dade8123-1278-44ea-be55-dc25812c38d4.png)
+### Copper Chestplate
+![image](https://user-images.githubusercontent.com/82774618/151715763-b229a512-c2f0-46a6-a74f-9dd0ce0005ac.png)
+### Copper Helmet
 
+### Copper Hoe
+
+### Copper Leggings
+
+### Copper Pickaxe
+
+### Copper Rod
+
+### Copper Shovel
+
+### Copper Sword
